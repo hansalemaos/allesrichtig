@@ -14,14 +14,14 @@
 </p><br>
 
 
-# Alles richtig
+# Alles richtig [DOWNLOAD THE INSTALLER HERE](https://github.com/hansalemaos/allesrichtig/raw/main/alles_richtig_oder_was_setup.exe)
 
 
 
 ## What can you do with it?
 
 - Checks German texts for errors
-- Uses LanguageTool engine
+- Uses [LanguageTool](https://github.com/languagetool-org/languagetool) engine
 - Works offline
 - HTML output with suggestions and explanation of how to make it better
 - No coding required!
@@ -55,7 +55,7 @@ The app will show you all errors that it finds.|<img src="165_800x800.png" width
 
 | _,.-'``'-.,_,.'`` Step 6 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-At the end, you will get everything as a nice looking HTML table!<br>**Attention: since this app is using the free version of LanguageTool, it does not find as many errors as with the pro version.**|<img src="198_800x800.png" width="400"/> |
+At the end, you will get everything as a nice looking HTML table!<br>**Attention: since this app is using the free version of [LanguageTool](https://github.com/languagetool-org/languagetool), it does not find as many errors as with the pro version.**|<img src="198_800x800.png" width="400"/> |
 
 
 ## License
